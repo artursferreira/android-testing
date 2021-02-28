@@ -15,7 +15,7 @@
  */
 package com.example.android.architecture.blueprints.todoapp.taskdetail
 
-import androidx.fragment.app.testing.launchFragmentInContainer
+
 import androidx.test.espresso.Espresso.onView
 import androidx.test.espresso.assertion.ViewAssertions.matches
 import androidx.test.espresso.matcher.ViewMatchers.isChecked
